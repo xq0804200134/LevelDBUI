@@ -1,0 +1,33 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>org.xq08.leveldb.ui</groupId>
+	<artifactId>leveldb-ui</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>leveldb-ui</name>
+	<description>leveldb-ui</description>
+	<dependencies>
+		<dependency>
+			<groupId>org.iq80.leveldb</groupId>
+			<artifactId>leveldb</artifactId>
+			<version>0.6</version>
+		</dependency>
+		<dependency>
+			<groupId>commons-lang</groupId>
+			<artifactId>commons-lang</artifactId>
+			<version>2.6</version>
+		</dependency>
+		<dependency>
+			<groupId>mx4j</groupId>
+			<artifactId>mx4j</artifactId>
+			<version>3.0.1</version>
+			<scope>test</scope>
+		</dependency>
+		<dependency>
+			<groupId>mx4j</groupId>
+			<artifactId>mx4j-tools</artifactId>
+			<version>3.0.1</version>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
+</project>

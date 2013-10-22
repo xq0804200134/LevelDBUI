@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<strings>
+	<str id="none"></str>
+	<str id="common.title">LevelDb(Java)/UI</str>
+	<str id="common.subtitle">LevelDb Management Console</str>
+	
+	<str id="common.tabs.db.view">LevelDb view</str>
+	<str id="common.tabs.db.operation">LevelDb operation</str>
+	<str id="common.tabs.about">About</str>
+	
+	
+	<str id="common.logo">LevelDb</str>
+	<str id="common.logo.gif">logo.jpg</str>
+	<str id="common.logo.width">332</str>
+	<str id="common.logo.height">67</str>
+	<str id="common.site">https://github.com/dain/leveldb</str>
+	
+	<str id="index.title">LevelDb Infomation:</str>
+	<str id="index.query.name">Query Key:</str>
+	<str id="index.query">Query</str>
+	
+	<str id="operation.title">LevelDb operation</str>
+	<str id="operation.query.title">LevelDb operation</str>
+	<str id="operation.set.title">LevelDb operation</str>
+	<str id="operation.delete.title">LevelDb operation</str>
+	
+	
+	<str id="about.title">LevelDb-UI - About</str>
+	<str id="about.main.url">https://github.com/dain/leveldb</str>
+
+	
+
+</strings>
